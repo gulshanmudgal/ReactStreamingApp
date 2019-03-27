@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Chacha Ki Chai",
+      "description": "Friends, Chai Pee Lo!!!",
+      "id": 1
+    },
+    {
+      "title": "Gulshan",
+      "description": "New Test Stream.",
+      "id": 2
+    },
+    {
+      "title": "Signed In Stream",
+      "description": "Testing Again",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "110765088276634940675"
+      },
+      "id": 3
+    },
+    {
+      "title": "This is a  test stream.",
+      "description": "KJDHSJkjhkfdsalkjslkfjlkjfds",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "110765088276634940675"
+      },
+      "id": 4
+    }
+  ]
+}
